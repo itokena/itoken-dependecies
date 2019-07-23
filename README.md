@@ -1,2 +1,2 @@
 # itoken-dependecies
-统一的以来管理
+统一的依赖管理
